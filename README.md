@@ -1,4 +1,13 @@
-## Hi there 👋
+## # Hey, I'm Zach 👋
+
+🎬 Media & Creative Technology Student | 🎧 Audio & Video | 💻 Tech Enthusiast
+
+I'm passionate about **media, music, technology, and digital storytelling**. I enjoy working with video, audio, photography, and creative technology while constantly learning new skills and building projects.
+
+**Skills:** Adobe Creative Cloud • R • Git/GitHub • Video & Audio Editing • Photography
+
+🚀 Always learning. Always creating.
+
 
 <!--
 **ZacharyJSchaefer/ZacharyJSchaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
